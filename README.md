@@ -19,6 +19,7 @@ Currently Finishing up my undergraduate studies in Statistics and Computational 
 
 
 <!--
+
 ---
 
 ## 🌱 What I’m Learning
@@ -31,7 +32,6 @@ Currently Finishing up my undergraduate studies in Statistics and Computational 
 
 
 
----
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Zafar Erkinboev]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/zerkinboev/))
