@@ -17,9 +17,6 @@ Currently Finishing up my undergraduate studies in Statistics and Computational 
 - **Databases:** [e.g., MySQL, MongoDB, PostgreSQL]
 -->
 
----
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ezafar&show_icons=true&theme=radical)  
 
 <!--
 ---
@@ -50,6 +47,10 @@ Currently Finishing up my undergraduate studies in Statistics and Computational 
 
 
 Have a great day! 🌟
+
+---
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ezafar&show_icons=true&theme=radical)  
 
 
 <!--
